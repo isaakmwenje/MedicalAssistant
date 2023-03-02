@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "988193728937",
+    "project_id": "medical-assistant-b4650",
+    "storage_bucket": "medical-assistant-b4650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:988193728937:android:874d480b956e1193d37cb8",
+        "android_client_info": {
+          "package_name": "com.example.medical_assistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "988193728937-44sqa7iuv9jp41ima795m1ichu605ou8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3OM7hQbL2lbPEgIO5kHSziMUYl71mhmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "988193728937-44sqa7iuv9jp41ima795m1ichu605ou8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

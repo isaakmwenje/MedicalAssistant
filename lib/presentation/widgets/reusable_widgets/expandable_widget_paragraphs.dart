@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:untitled3/presentation/widget/reusable_widget/small_text.dart';
+import 'package:medical_assistant/constants/dimensions.dart';
+import 'package:medical_assistant/presentation/widgets/reusable_widgets/small_text.dart';
 
 class ExpandedParagraph extends StatefulWidget {
   String text;
@@ -14,7 +15,7 @@ class _ExpandedParagraphState extends State<ExpandedParagraph> {
   late String secondHalf;
 
   bool hiddenText = false;
-  double textHeight = 154.0;
+  double textHeight = Dimensions.height100;
 
   @override
   void initState() {
