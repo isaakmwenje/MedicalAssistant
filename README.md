@@ -44,7 +44,7 @@ Navigate to the [releases page](https://github.com/isaakmwenje/Farmdrive/release
 
 > Previous versions are located there too.🔖
 ## 🧘‍♂️Motivation
-I have deep passion in beautiful UIs, mobile development and solving hurdles in general so —. I made  a Farmdrive application for a starting point.
+I have deep passion in beautiful UIs, mobile development and solving hurdles in general so —. I made  a Medical assistant application.
 ## 🛣Roadmap
 The next few alpha releases focus on the following: 
   * [ ] optimal performance
