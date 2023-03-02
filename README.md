@@ -1,4 +1,4 @@
-# Farmdrive
+# Medical Assistant
 
 ### Table of contents
   - [**📜Description**](#Description)
@@ -15,7 +15,7 @@
 ---
 
 ## 📜Description
-Farmdrive is a mobile app that serves as a bridge between farmers and potential customers. The application helps farmers to reach a wider audience and allows customers to buy fresh produce directly from the source.  [Flutter](https://flutter.dev) [Laravel](https://laravel.com)
+Introducing MedAssist, the medical assistant application that helps you keep track of your health information and appointments. With MedAssist, you can easily enter and store your medical history, including diagnoses, medications, and allergies. The app also allows you to schedule appointments with your healthcare provider.  [Flutter](https://flutter.dev) [Laravel](https://laravel.com)
 
 ## 👓Showcase
 <img src="https://user-images.githubusercontent.com/61366901/222541454-fe74539c-837d-43e9-998f-f0761e28ce01.png"  width="240" height="506.7" />  <img src="https://user-images.githubusercontent.com/61366901/222541883-3484ef59-f062-4106-846b-dac1b514c9b4.png" width="240" height="506.7" /> <img src="https://user-images.githubusercontent.com/61366901/222543321-b2c57ba5-b18e-4bd6-afcb-00c5afaa7ef9.png" alt="Kitten"
